@@ -1,0 +1,123 @@
+
+    body{
+        padding: 0px;
+        margin: 0px;
+        background-color: rgb(34, 29, 29);
+        
+    }
+
+
+    nav{
+        background-color: #fff;
+        padding: 10px;
+     
+        margin: 0px 0px 0px 0px;
+        justify-content: center;
+        
+    }
+
+  h3{
+       
+        display: inline-block;
+        color: black;
+        font-family:  'Arial Narrow', Arial;
+  }
+  h3:hover{
+       
+    color: rgb(128, 17, 17);
+    
+}
+
+#Home  {
+    margin-left: 530px; 
+}
+
+
+#capa{
+
+    height: 100%;
+    width: 100%;
+
+  }
+
+  h1{
+    color: #fff;
+    font-family:  Arial;
+    text-align: center;
+    margin: 50px 20px 30px 30px;
+    
+  }
+
+  p{
+    color: #fff;
+    font-family:  Arial;
+     margin: 50px ;
+     padding-bottom: 10px;
+     letter-spacing: 1px;
+     line-height: 180%;
+     text-align: justify;
+     padding: 0%;
+
+  }
+
+  #dois{
+    color: #fff;
+    font-family:  Arial;
+     margin: 50px ;
+     padding: 0px;
+    
+     letter-spacing: 1px;
+     line-height: 180%;
+     text-align: justify;
+  }
+
+  iframe{
+
+    
+    margin: 50px 50px 50px 350px;
+        justify-content: center;
+
+    
+  }
+  
+          
+        
+
+
+  .vitoria{
+    color: #fff;
+    font-family:  Arial;
+    margin: 0px 30px 0px 30px;
+     display: inline-block;
+     letter-spacing: 1px;
+     line-height: 180%;
+     text-align: justify;
+
+  }
+ .capa{
+    border-radius: 50%;
+    margin-left: 480px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+ }
+
+ .titulo{
+    
+    color: #fff;
+    font-family:  Arial;
+    margin-left: 480px;
+    margin-top: 40px;
+    text-align: justify;
+ }
+
+ a{
+  text-decoration: none;
+ }
+
+ #principal{
+  color: #fff;
+  font-family:  Arial;
+  text-align: center;
+  margin: 50px 20px 30px 30px;
+  
+}
