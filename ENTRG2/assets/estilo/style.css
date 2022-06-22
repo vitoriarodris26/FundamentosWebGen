@@ -1,0 +1,179 @@
+body {
+   
+    background-color: #24252A;
+    margin: 0%;
+    padding: 0%;
+
+   }
+
+
+#menu {
+  
+    display: flex;
+    flex-direction: row;
+    justify-content:left;
+    background-color: #fff9f9;;
+   /* padding: 10px;
+    height: 50PX;*/
+    margin: 0px 0px 0px 0px;
+    padding: 0%;
+
+    border-radius:0px 0px 20px 20px;
+
+}
+.cat{
+    display: inline-flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: rgb(48, 45, 45);
+  
+    margin-right: 10px;
+    
+    text-decoration: none;
+   
+}
+.cat:hover{
+	color: #814314;
+	
+	
+}
+.cat2{
+    font-size: 20px;
+    color: rgb(48, 45, 45);
+    display: inline-flex;
+    margin-left: 20px;
+    margin-right: 1010px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+  
+}
+.cat2:hover{
+	color: #814314;
+	
+	
+}
+.link{
+    text-decoration: none;
+}
+#logo{
+  
+    display: inline-flex;
+  padding-top: 20px;
+    
+    
+}
+ #capacafe{
+    margin-bottom: 100px;
+    width: 1300px;
+    margin: 0%;
+    opacity: 0.5;
+    
+ }
+.principal{
+    margin-bottom: 266px;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 1000px;
+    position: absolute;
+    top: 200px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+   
+}
+p{
+    padding-bottom: 50px;
+    letter-spacing: 1px;
+    line-height: 180%;
+    font-size: 16px;
+
+}
+button{
+    border-radius: 20px;
+    padding:10px;
+    width: 100px;
+    border: none;
+    color: #20150b
+}
+
+.caixacafe{
+    width:200px;
+    padding-top: 70px;
+    padding-left: 100px;
+}
+
+
+
+h2{
+    color: #fff;
+    text-align: center;
+    padding-top: 30px;
+    font-family: arial ;
+}
+u{
+    color: #fff;
+    margin-top: 12px;
+}
+iframe{
+
+    
+    margin: 150px 150px 100px 350px;
+    
+        justify-content: center;
+
+    
+  }
+
+h1{
+   
+    color: #fff;
+    text-align: center;
+    padding-top: 30px;
+    font-family: arial ;
+
+}
+#cafehistoria{
+    width: 500px;
+    height: 400px;
+    margin-left: 400px;
+    margin-right: 150px;
+}
+.hist{
+    color: #fff;
+    margin: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    /**********CAPSULA NAPOLI************************************/
+   
+    .card{
+       
+       background-color: #31323A;
+       width: 360px;
+       height: 340px;
+       text-align: center;   
+       color: #fff; 
+       border-radius: 16px 16px 48px 16px;
+    padding: 30px;
+       display: inline-block;
+     
+            
+       }
+  
+       
+
