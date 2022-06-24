@@ -142,38 +142,61 @@ h1{
     color: #fff;
     margin: 50px;
 }
+#contato{
+    margin-top: 20px;
+    margin-bottom: 50px;
 
 
 
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+.formulario{
+    justify-content: center;
+    color: #fff;
+    border-radius: 30%;
     
-    /**********CAPSULA NAPOLI************************************/
-   
-    .card{
-       
-       background-color: #31323A;
-       width: 360px;
-       height: 340px;
-       text-align: center;   
-       color: #fff; 
-       border-radius: 16px 16px 48px 16px;
-    padding: 30px;
-       display: inline-block;
-     
-            
-       }
-  
-       
+}
+input{
+    border-radius: 50px;
+    border: none;
+    padding: 8px;
+    margin: 10px;
+    margin-left: 570px;
+    
+}
+label{
+    margin-left: 570px;
+    display: inline-block;
+    
 
+
+}
+#assunt{
+    border-radius: 50px;
+    border: none;
+    margin-top:10px;
+    margin-left: 420px;
+    
+}
+#assuntos{
+    border-radius: 20px;
+    border: none;
+    margin-top:10px;
+    margin-left: 400px;
+    display: inline-block;
+}
+#botao{
+    margin-left: 620px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#TxtNome{
+    margin-left: 570px; 
+    margin-bottom: 20px;
+}
+#TxtEmail{
+    margin-left: 570px;
+}
+#Txtassunto{
+    margin-bottom: 800px;
+}
