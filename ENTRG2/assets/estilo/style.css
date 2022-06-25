@@ -154,6 +154,8 @@ h1{
     justify-content: center;
     color: #fff;
     border-radius: 30%;
+    padding: 30px;
+    margin-left: 30px;
     
 }
 input{
@@ -161,42 +163,50 @@ input{
     border: none;
     padding: 8px;
     margin: 10px;
-    margin-left: 570px;
+    margin-left: 10px;
+    margin-bottom: 10px;
     
 }
 label{
-    margin-left: 570px;
+    margin-left: 440px;
     display: inline-block;
     
 
 
 }
-#assunt{
-    border-radius: 50px;
-    border: none;
-    margin-top:10px;
-    margin-left: 420px;
-    
-}
-#assuntos{
-    border-radius: 20px;
-    border: none;
-    margin-top:10px;
-    margin-left: 400px;
-    display: inline-block;
-}
+
+
 #botao{
-    margin-left: 620px;
+    margin-left: 550px;
     margin-top: 50px;
     margin-bottom: 50px;
 }
 #TxtNome{
-    margin-left: 570px; 
+    margin-left: 600px; 
     margin-bottom: 20px;
 }
 #TxtEmail{
-    margin-left: 570px;
+    margin-left: 600px;
 }
 #Txtassunto{
     margin-bottom: 800px;
+}
+.caixatext{
+    margin-left: 400px;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 0px;
+
+  
+    
+}
+#titulo{
+    padding: 0px;
+    margin-top: 40px;
+    padding-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 400px
+    
+
+    
 }

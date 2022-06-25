@@ -36,9 +36,16 @@
             <input type="email" id="email" onkeyup="validarEmail()">
             <div id="TxtEmail"></div>
 
-            <label  for="assunto">Assunto:</label> <br>
-            <textarea name="assunto"  onkeyup="TemAssunto()" cols="70" rows="10"></textarea>
+           <div>
+            <label id="titulo"  for="assunto">Assunto:</label> 
+
+           </div>
+            <textarea  class="caixatext" name="assunto"  onkeyup="TemAssunto()" cols="50" rows="8" ></textarea>
             <div id="TxtAssunto"></div>
+            
+
+
+           
 
             <div id="botao">
                 <button onclick="Enviar()">Enviar</button>
